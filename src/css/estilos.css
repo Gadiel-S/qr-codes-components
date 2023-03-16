@@ -1,0 +1,27 @@
+body {
+   background-color: hsl(212, 45%, 89%);
+   font-family: 'Poppins', sans-serif;
+}
+main {
+   background-color: hsl(0, 0%, 100%);
+   max-width: 320px;
+   text-align: center;
+   margin: 100px auto;
+   border-radius: 20px;
+}
+img {
+   max-width: 280px;
+   margin: 15px;
+   border-radius: 10px;  
+}
+h2 {
+   color: hsla(218, 44%, 22%, 96%);
+   font-size: 19px;
+   margin: 0 33px 18px 33px;
+}
+p {
+   color: hsla(220, 15%, 55%, 85%);
+   font-size: 14px;
+   margin: 0 32px;
+   padding-bottom: 40px;
+}
