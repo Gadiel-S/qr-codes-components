@@ -3,11 +3,9 @@
 Essa é uma solução para o [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 Os desafios do Front End Mentor te ajudam a melhorar seu código criando projetos realistas.
 
-## Sumário
+## Screenshot
 
 ![](./src/imagens/capa-projeto-qr-code-components.jpeg)
-
-- [Autor](Gadiel-S)
 
 ## Links
 
