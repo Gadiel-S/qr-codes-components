@@ -5,7 +5,8 @@ Os desafios do Front End Mentor te ajudam a melhorar seu código criando projeto
 
 ## Sumário
 
-- [Screenshot](./src/imagens/capa-projeto-qr-code-components.jpeg)
+![](./src/imagens/capa-projeto-qr-code-components.jpeg)
+
 - [Autor](Gadiel-S)
 
 ## Links
