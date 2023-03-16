@@ -21,11 +21,11 @@ img {
 h1 {
   color: hsla(218, 44%, 22%, 95%);
   font-size: 1.25rem;
-  margin: 0 1em 0.7em 1em;
+  margin: 0 1em 0.5em 1em;
 }
 p {
   color: hsla(220, 15%, 55%, 85%);
-  font-size: 0.89rem;
+  font-size: 0.85rem;
   margin: 0 2em;
-  padding-bottom: 3em;
+  padding-bottom: 2.5em;
 }
