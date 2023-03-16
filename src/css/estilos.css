@@ -18,6 +18,7 @@ h2 {
    color: hsla(218, 44%, 22%, 96%);
    font-size: 19px;
    margin: 0 33px 18px 33px;
+   font-weight: 900;
 }
 p {
    color: hsla(220, 15%, 55%, 85%);
