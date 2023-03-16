@@ -7,16 +7,16 @@ Os desafios do Front End Mentor te ajudam a melhorar seu código criando projeto
 
 ![](./src/imagens/capa-projeto-qr-code-components.jpeg)
 
-## Links
-
-- URL da solução: (https://gadiel-s.github.io/qr-codes-components/)
-- Github: (https://github.com/Gadiel-S)
-- Portfolio - [Gadiel Souza de Barros](https://gadiel-s.github.io/meu-portfolio/)
-- Frontend Mentor - [@Gadiel-S](https://www.frontendmentor.io/profile/Gadiel-S)
-
 ## Construído com
 
 - VS Code
 - HTML semântico
 - CSS
 - Flexbox
+
+## Links
+
+- URL da solução: (https://gadiel-s.github.io/qr-codes-components/)
+- Github: (https://github.com/Gadiel-S)
+- Portfolio - [Gadiel Souza de Barros](https://gadiel-s.github.io/meu-portfolio/)
+- Frontend Mentor - [@Gadiel-S](https://www.frontendmentor.io/profile/Gadiel-S)
